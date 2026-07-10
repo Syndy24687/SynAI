@@ -7,21 +7,21 @@
 - [x] Folder structure
 
 ## Milestone 1 — Foundation
-- [ ] Project metadata
-- [ ] Configuration
-- [ ] Logging
-- [ ] Dependency injection
-- [ ] Bootstrap
-- [ ] First successful run
+- [x] Project metadata
+- [x] Configuration
+- [x] Logging
+- [x] Dependency injection
+- [x] Bootstrap
+- [x] First successful run
 
 ## Milestone 2 — Speech
-- [ ] Speech recognition
-- [ ] Text-to-speech
-- [ ] Voice loop
+- [x] Speech recognition
+- [x] Text-to-speech
+- [x] Voice loop
 
 ## Milestone 3 — Core Skills
-- [ ] Time
-- [ ] Date
-- [ ] Jokes
-- [ ] Browser
-- [ ] YouTube
+- [x] Time
+- [x] Date
+- [x] Jokes
+- [x] Browser
+- [x] YouTube
