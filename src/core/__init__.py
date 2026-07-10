@@ -1,0 +1,1 @@
+"""SynAI core module."""

@@ -1,0 +1,1 @@
+"""SynAI skills module."""
